@@ -1,4 +1,46 @@
 .main{
     display: flex;
-    justify-content: space-around;
+    justify-content:space-around;
+}
+.sum{
+    font-size: 17px;
+    width: 400px;
+    color: gray;
+}
+.dv1{
+    display: flex;
+    justify-content:left;
+}
+.dv3{
+ color: gray;
+ margin-left: 30px;
+}
+.dv5{
+    color: gray;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.dv4{
+    color: gray;
+    padding: 8px;
+    border-color: gray;
+    border-radius: 20%;
+    margin-left: 25px;
+}
+.img1{
+    border-radius: 50%;
+    height: 30px;
+    margin-right: 10px;
+}
+.like{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.lkbt{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    color: red;
+    border-radius: 8px;
 }

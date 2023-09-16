@@ -8,9 +8,12 @@ export default function Prac(){
         <Card 
         title = {"Design Liberalized Exhange Management"}
         Auther = {"Fred Boone"}
-        Date = {"Jan10/2020"}
-        summary = {"A little personality goes a long way,especially on a buisness blog.So don't be afraid to let loose"}
-        ></Card>
+        Date = {"   Jan10/2020"}
+        summary = {"A little personality goes a long way,especially on a buisness blog. So don't be afraid to let loose"}
+        comment = {"Add comment"}
+        bt = {"UI/UX"}
+        bt2={"DEVELOPMENT"}
+       ></Card>
         </div>
         <div>
         
